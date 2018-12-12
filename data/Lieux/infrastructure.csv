@@ -1,8 +1,9 @@
 id;value
+0;Non défini
 1;Souterrain - tunnel
 2;Pont - autopont
-3;Bretelle dâ€™Ã©changeur ou de raccordement
-4;Voie ferrÃ©e
-5;Carrefour amÃ©nagÃ©
-6;Zone piÃ©tonne
-7;Zone de pÃ©age
+3;Bretelle d'échangeur ou de raccordement
+4;Voie ferrée
+5;Carrefour aménagé
+6;Zone piétonne
+7;Zone de péage

@@ -1,6 +1,7 @@
 id;value
-1;Sur chaussÃ©e
-2;Sur bande dâ€™arrÃªt dâ€™urgence
+0;Non défini
+1;Sur chaussée
+2;Sur bande d'arrêt d'urgence
 3;Sur accotement
 4;Sur trottoir
 5;Sur piste cyclable
